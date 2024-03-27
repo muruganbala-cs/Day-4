@@ -24,3 +24,4 @@ console.log(value);
 }
 // for each
 data.forEach(([key,val])=>console.log(val))
+
